@@ -7845,16 +7845,16 @@
         },
         {
             "name": "open-telemetry/exporter-otlp",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opentelemetry-php/exporter-otlp.git",
-                "reference": "756092bdff472ea49adb7843c74011606d065b36"
+                "reference": "89aaf718248e558679e04129cd0ec7d708c91fc3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opentelemetry-php/exporter-otlp/zipball/756092bdff472ea49adb7843c74011606d065b36",
-                "reference": "756092bdff472ea49adb7843c74011606d065b36",
+                "url": "https://api.github.com/repos/opentelemetry-php/exporter-otlp/zipball/89aaf718248e558679e04129cd0ec7d708c91fc3",
+                "reference": "89aaf718248e558679e04129cd0ec7d708c91fc3",
                 "shasum": ""
             },
             "require": {
@@ -7905,7 +7905,7 @@
                 "issues": "https://github.com/open-telemetry/opentelemetry-php/issues",
                 "source": "https://github.com/open-telemetry/opentelemetry-php"
             },
-            "time": "2023-10-13T00:48:23+00:00"
+            "time": "2023-12-17T23:25:22+00:00"
         },
         {
             "name": "open-telemetry/gen-otlp-protobuf",
